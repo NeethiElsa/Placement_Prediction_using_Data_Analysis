@@ -36,7 +36,7 @@ Estimators: 200
 Performance: ~85% test accuracy
 Tuned using GridSearchCV with 5-fold cross-validation
 
-### Evaluation Metrics
+#### Evaluation Metrics
 Accuracy
 Precision / Recall
 F1-Score
